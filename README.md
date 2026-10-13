@@ -7,5 +7,5 @@
 - listaelem2
 1. sorszámozott1
 2. sorszámozott2
-[Ez egy link]("https://www.google.com")
+[Ez egy link](https://www.google.com)
 `alert(valami);`
